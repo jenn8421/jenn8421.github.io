@@ -1,6 +1,9 @@
 ---
-Welcome to my portfolio! Here you’ll find projects I’ve created to gain experience and learn as much as I can about cybersecurity, networking, & programming. Explore, experiment, and learn all the things!
+layout: default
 ---
+## Welcome to my portfolio!🌟
+Here you’ll find projects I’ve created to gain experience and learn as much as I can about cybersecurity, networking, & programming. Explore, experiment, and learn all the things!
+
 ## Featured Projects
 
 ### Star(duino)Wars RFID Lock with Multi-Factor Authentication
