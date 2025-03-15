@@ -6,7 +6,8 @@ Here you’ll find projects I’ve created to gain experience and learn as much 
 
 ## Featured Projects
 
-### Star(duino)Wars RFID Lock with Multi-Factor Authentication
+<div class="project-container">
+<h3 class="project-title">Star(duino)Wars RFID Lock with Multi-Factor Authentication</h3>
 This project is a secure lock system that uses both an RFID card and a password for access. It’s built with an Arduino Uno, an RFID reader, a keypad, and a servo motor to simulate locking and unlocking a door.
 
 #### Key Features:
@@ -20,7 +21,19 @@ This project is a secure lock system that uses both an RFID card and a password 
 [View Project on GitHub](https://github.com/jenn8421/arduino-rfid-lock)
   
 [Watch Demo Video](https://drive.google.com/file/d/1FSMnjKZ0sPT7Wx7d6UZlmJyGW3ECMO5l/view?usp=sharing)
+</div>
 
+<div class="project-container">
+<h3 class="project-title">Jenn-erator: Password Generator</h3>
+A Python-based password generator that creates strong, secure passwords following NIST guidelines.
+
+#### Key Features:
+- **NIST Compliance**: Follows current NIST SP 800-63B password guidelines
+- **Customizable Generation**: Create passwords with your preferred mix of characters
+- **Strength Assessment**: Evaluates password strength based on length and character variety
+
+[View Project on GitHub](https://github.com/jenn8421/Jenn-erator)
+</div>
 ---
 
 ## More Projects Coming Soon
